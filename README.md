@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <h1>Telephone Directory App</h1>
+  <h1>AgendeMe Telephone Directory App</h1>
 
   <p>This is a single-page application (SPA) built with React and Typescript for managing a telephone directory. It consumes the AgendeMe.Api, a .NET6 API, to perform CRUD operations and retrieve contact and phone number data.</p>
 
@@ -55,7 +55,8 @@
   <p>Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.</p>
 
   <h2>Contact</h2>
-
-  <p>Send an email to cairomaranzatto.jau@gmail.com or visit my LinkedIn profile: <a href="https://www.linkedin.com/in/cairo-maranzatto-987835206">Cairo Maranzatto</a>.</p>
+  <p>Feel free to contact us via email at <a href="mailto:cairomaranzatto.jau@gmail.com">cairomaranzatto.jau@gmail.com</a> for any questions, or visit my LinkedIn profile: <a href="https://www.linkedin.com/in/cairo-maranzatto-987835206">Cairo Maranzatto</a>.</p>
+  <p>Thank you for visiting the AgendeMe repository!</p>
+  
 </body>
 </html>
